@@ -1,8 +1,6 @@
-BSc Informatics (IT) graduate with an interest in business IT. 
+_BSc Informatics (IT)_ graduate with an interest in business IT. 
 
 Currently diving back into the world of building IT systems after a hiatus.
 
-Logician.📈
-Backend Bender.👾
-
-Portfolio loading...
+- **Full-time logician**.📈
+- **Backend Bender**.👾
